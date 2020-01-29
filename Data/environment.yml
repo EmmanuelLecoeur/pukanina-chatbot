@@ -121,8 +121,8 @@ dependencies:
   - zipp=2.1.0=py_0
   - zlib=1.2.11=h2fa13f4_1006
   - pip:
-    - fr-core-news-md==2.2.5
-    - fr-core-news-sm==2.2.5
+    - https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-2.2.5/fr_core_news_md-2.2.5.tar.gz
+    - https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-2.2.5/fr_core_news_sm-2.2.5.tar.gz
     - pyqt5-sip==4.19.18
     - pyqtwebengine==5.12.1
 prefix: C:\Users\Emmanuel\Anaconda3\envs\pnchatbot
